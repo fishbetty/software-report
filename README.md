@@ -10,4 +10,5 @@
 4.統一的頁面樣式與主題色
 5.響應式版面：手機／平板／桌面皆可正常顯示
 6.後端流程：將註冊資料傳送至伺服器並回傳結果
-<img width="1920" height="1080" alt="螢幕擷取畫面 (10)" src="https://github.com/user-attachments/assets/97972dcb-594a-420c-8a0c-0ab28a0d0cf5" />
+
+
