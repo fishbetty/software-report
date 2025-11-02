@@ -403,8 +403,13 @@ function register() {
 <img width="650" height="345" alt="06" src="https://github.com/user-attachments/assets/8056d999-e3da-45ff-8aa9-f8be95735f03" />
 
 安裝
+
+
 <img width="672" height="100" alt="11" src="https://github.com/user-attachments/assets/91efff10-73f6-4a65-a86c-244fc9a32704" />
 
+
+
+<img width="657" height="161" alt="12" src="https://github.com/user-attachments/assets/29a88693-e02a-4382-ba30-cf1f63970795" />
 
 <img width="657" height="161" alt="12" src="https://github.com/user-attachments/assets/9805b171-dabd-4c62-a7ef-9f91229e8d7c" />
 
