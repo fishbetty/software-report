@@ -133,7 +133,8 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-<img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
+<img width="1920" height="1027" alt="2" src="https://github.com/user-attachments/assets/9c96aba3-4a32-4698-a0e1-e6afb2bd2f77" />
+
 
 
 
