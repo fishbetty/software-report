@@ -394,11 +394,14 @@ function register() {
 ## 第三步：
 增加重要後台註冊系統
 
-<img width="686" height="852" alt="01" src="https://github.com/user-attachments/assets/2bb03805-5795-41b9-b575-fb2d48deab01" />
-<img width="678" height="851" alt="02" src="https://github.com/user-attachments/assets/cfcc9797-2031-4f3f-a8f3-d7242d666e15" />
-<img width="658" height="853" alt="03" src="https://github.com/user-attachments/assets/0504fa29-9286-4d72-8772-d776a36ea1dc" />
-<img width="643" height="822" alt="04" src="https://github.com/user-attachments/assets/6d8226eb-5782-485f-a705-44854e6cc04c" />
-<img width="652" height="518" alt="05" src="https://github.com/user-attachments/assets/c68bb74e-1852-4f78-92af-c2a31b0dd6c2" />
+
+<img width="688" height="510" alt="01" src="https://github.com/user-attachments/assets/42ca85e4-f942-4580-8891-158ad099903b" />
+<img width="651" height="747" alt="02" src="https://github.com/user-attachments/assets/54786c05-c460-4981-9f4a-f9f6d04f803a" />
+<img width="636" height="475" alt="03" src="https://github.com/user-attachments/assets/e6fab8d9-e2b3-4b02-863f-a9a3ec9f2570" />
+<img width="643" height="692" alt="04" src="https://github.com/user-attachments/assets/70cc7052-3a8c-4440-99ce-6f1c50726d6c" />
+<img width="642" height="497" alt="05" src="https://github.com/user-attachments/assets/e9a6d619-d169-424b-a0ab-f4c399d7cd6c" />
+<img width="650" height="345" alt="06" src="https://github.com/user-attachments/assets/8056d999-e3da-45ff-8aa9-f8be95735f03" />
+
 
 
 
