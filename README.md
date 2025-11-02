@@ -19,7 +19,7 @@
 # 步驟與內容細項
 
 
-##第一步：生成 HTML 結構
+## 第一步：生成 HTML 結構
 
 <img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" />
 
@@ -117,9 +117,9 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-##第二步：增加確認密碼欄位
+## 第二步：增加確認密碼欄位
 
-###二次確保用戶密碼
+### 二次確保用戶密碼
 
 <img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" />
 
