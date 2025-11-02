@@ -19,6 +19,10 @@
 
 # 步驟與內容細項
 第一步：生成 HTML 結構
+
+
+<img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/51af5175-6d54-4a04-9635-9874a2b16d3d" />
+
 第二步：加入伺服器端處理（示例 PHP）
 第三步：資料庫設計
 第四步：開發環境說明
