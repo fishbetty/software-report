@@ -2,6 +2,8 @@
 # 11224213林巧芝 11224216林品妤
 
 # 使用 ChatGPT 輕鬆創建用戶註冊頁面
+隨著 AI 技術的發展，ChatGPT 已逐漸成為開發者的重要輔助工具。
+在建立「使用者註冊頁面」這類常見功能時，透過 ChatGPT 可大幅提升開發效率，減少重複性工作。
 # 需求分析
 註冊頁面至少應包含以下功能與要素：
 
@@ -22,25 +24,4 @@
 第二步：加入伺服器端處理（示例 PHP）
 第三步：資料庫設計
 第四步：開發環境說明
-
-body {
-  font-family: "Microsoft JhengHei", Arial, sans-serif;
-  background-color: #f4f4f4;
-}
-.form-container {
-  width: 100%;
-  max-width: 400px;
-  margin: auto;
-  padding: 20px;
-  background: #fff;
-  box-shadow: 0 0 8px rgba(0,0,0,0.1);
-  border-radius: 8px;
-}
-input[type="text"], input[type="password"], input[type="email"] {
-  width: 100%;
-  padding: 10px;
-  margin: 8px 0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
 
