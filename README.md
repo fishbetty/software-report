@@ -250,35 +250,19 @@ function register() {
 
 測試結果如下
 
-
-
 <img width="1293" height="995" alt="4" src="https://github.com/user-attachments/assets/17229e99-4c1b-4224-bda3-2d96b5955cf9" />
-
-
 
 ## 第三步：最後測試功能是否正常
 
-
-
 ### 輸入正確帳號密碼
-
-
 
 <img width="1298" height="988" alt="5" src="https://github.com/user-attachments/assets/5b4de371-0a00-4e21-b8b0-0a5ec043b3a4" />
 
-
-
 ### 輸入少於8位數字密碼
-
-
 
 <img width="1292" height="996" alt="6" src="https://github.com/user-attachments/assets/2c4e8c07-b0b4-4653-a600-41a5d09fd8d6" />
 
-
-
 ### 輸入兩次不同的密碼
-
-
 
 <img width="1296" height="1002" alt="7" src="https://github.com/user-attachments/assets/c173a993-6c9d-4d56-a43c-dd7e01be13fe" />
 
