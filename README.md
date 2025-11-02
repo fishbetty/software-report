@@ -122,7 +122,7 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 </script>
 </body>
 </html>
-```
+```<br><br><br>
 
 
 
@@ -131,7 +131,7 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-<img width="1920" height="1027" alt="2" src="https://github.com/user-attachments/assets/9c96aba3-4a32-4698-a0e1-e6afb2bd2f77" />
+<img width="1920" height="1027" alt="2" src="https://github.com/user-attachments/assets/9c96aba3-4a32-4698-a0e1-e6afb2bd2f77" /><br><br><br>
 
 
 
