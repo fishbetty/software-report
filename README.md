@@ -16,9 +16,7 @@
 2.表單驗證：格式正確、必填、密碼數量等
 
 
-3.後台系統註冊
-
-
+3.後台系統註冊<br><br><br>
 
 
 # 步驟與內容細項
@@ -32,7 +30,7 @@
 
 
 
-<img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" />
+<img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" /><br><br><br>
 
 
 
