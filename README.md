@@ -261,7 +261,8 @@ function register() {
 
 
 
-<img width="1920" height="1025" alt="3-1" src="https://github.com/user-attachments/assets/6ad86707-e89c-4fa6-8c1d-4e3ca73662bc" />
+<img width="682" height="801" alt="3-1" src="https://github.com/user-attachments/assets/a054f841-6d38-4d86-8c3e-d7ece8e79adf" />
+
 
 
 
@@ -416,17 +417,25 @@ function register() {
 <img width="1920" height="1027" alt="7" src="https://github.com/user-attachments/assets/21e9b0ac-8882-4748-8257-21a172241bc3" />
 
 
+### 輸入欄位缺少填寫
 
+
+
+<img width="1920" height="1027" alt="8" src="https://github.com/user-attachments/assets/5b51c42a-58b4-4068-aa24-8440be1cd334" />
+
+
+
+
+# 總結
 
 # 1️⃣ 專案特色 / 功能亮點
 
-前端即時驗證所有欄位是否填寫
 
 密碼最小長度檢查
 
 確認密碼一致性檢查
 
-友善的錯誤提示訊息
+驗證所有欄位是否填寫
 
 # 2️⃣ 擴充功能 / 未來可改進
 
@@ -438,15 +447,11 @@ function register() {
 
 UI 優化（動畫、主題色切換）
 
-使用 JavaScript 框架改寫（React / Vue / Angular）
 
-# 3️⃣ 總結
 
-ChatGPT 可以快速生成註冊頁面模板
+# 3️⃣ 結論
 
-適合初學者學習前端表單驗證與頁面設計
-
-生成程式碼方便原型開發，但正式專案需加入安全性驗證
+ChatGPT 可以快速生成註冊頁面模板，適合初學者學習表單驗證與頁面設計，只要簡單的輸入想生成的內容，溝通想設計的理念，將程式碼增加與修改，並可達成所想要目標非常的方便。
 
 
 
