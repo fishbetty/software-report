@@ -150,7 +150,7 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-程式碼
+程式碼生成如下
 
 
 ```python
@@ -249,23 +249,36 @@ function register() {
 
 
 
-測試結果如下
+測試結果
 
-<img width="1293" height="995" alt="4" src="https://github.com/user-attachments/assets/17229e99-4c1b-4224-bda3-2d96b5955cf9" />
+
+
+<img width="1920" height="1025" alt="4" src="https://github.com/user-attachments/assets/f7c2b5cd-73f5-44a3-bd4f-917f57fb02c1" />
+
 
 ## 第三步：最後測試功能是否正常
 
+
+
 ### 輸入正確帳號密碼
 
-<img width="1298" height="988" alt="5" src="https://github.com/user-attachments/assets/5b4de371-0a00-4e21-b8b0-0a5ec043b3a4" />
+
+<img width="1920" height="1026" alt="5" src="https://github.com/user-attachments/assets/e91e404f-5a5c-48c2-915f-1ad39703082c" />
+
+
 
 ### 輸入少於8位數字密碼
 
-<img width="1292" height="996" alt="6" src="https://github.com/user-attachments/assets/2c4e8c07-b0b4-4653-a600-41a5d09fd8d6" />
+
+<img width="1920" height="1027" alt="6" src="https://github.com/user-attachments/assets/1ff97f83-50ef-4a3d-8226-d9d67e430d15" />
+
+
 
 ### 輸入兩次不同的密碼
 
-<img width="1296" height="1002" alt="7" src="https://github.com/user-attachments/assets/c173a993-6c9d-4d56-a43c-dd7e01be13fe" />
+
+<img width="1920" height="1025" alt="7" src="https://github.com/user-attachments/assets/d004a1f9-ba5a-4a6a-ae42-46b0bd4df96d" />
+
 
 
 
