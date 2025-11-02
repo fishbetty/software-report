@@ -139,10 +139,10 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-## 第二步：增加確認密碼欄位
+## 第二步：增加實用功能
 
 
-二次確保用戶密碼
+1.二次確保用戶密碼
 
 
 
@@ -256,6 +256,21 @@ function register() {
 <img width="1920" height="1025" alt="4" src="https://github.com/user-attachments/assets/f7c2b5cd-73f5-44a3-bd4f-917f57fb02c1" />
 
 
+
+2.增加一個「顯示/隱藏密碼」的勾選框
+
+
+
+<img width="1920" height="1025" alt="3-1" src="https://github.com/user-attachments/assets/6ad86707-e89c-4fa6-8c1d-4e3ca73662bc" />
+
+
+
+測試結果
+
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/b11caccd-0062-48cc-ba43-6cb1b986449f" />
+
+
+
 ## 第三步：最後測試功能是否正常
 
 
@@ -263,21 +278,26 @@ function register() {
 ### 輸入正確帳號密碼
 
 
-<img width="1920" height="1026" alt="5" src="https://github.com/user-attachments/assets/e91e404f-5a5c-48c2-915f-1ad39703082c" />
+<img width="1918" height="1027" alt="5" src="https://github.com/user-attachments/assets/ac79baa3-fe3a-472c-8687-bc62ec5b3cf5" />
+
 
 
 
 ### 輸入少於8位數字密碼
 
 
-<img width="1920" height="1027" alt="6" src="https://github.com/user-attachments/assets/1ff97f83-50ef-4a3d-8226-d9d67e430d15" />
+<img width="1920" height="1027" alt="6" src="https://github.com/user-attachments/assets/239c2ca2-1714-4b5e-ba33-c603a9e0189a" />
+
 
 
 
 ### 輸入兩次不同的密碼
 
 
-<img width="1920" height="1025" alt="7" src="https://github.com/user-attachments/assets/d004a1f9-ba5a-4a6a-ae42-46b0bd4df96d" />
+<img width="1920" height="1027" alt="7" src="https://github.com/user-attachments/assets/21e9b0ac-8882-4748-8257-21a172241bc3" />
+
+
+
 
 # 1️⃣ 專案特色 / 功能亮點
 
