@@ -279,7 +279,7 @@ function register() {
 
 <img width="1920" height="1025" alt="7" src="https://github.com/user-attachments/assets/d004a1f9-ba5a-4a6a-ae42-46b0bd4df96d" />
 
-#1️⃣ 專案特色 / 功能亮點
+# 1️⃣ 專案特色 / 功能亮點
 
 前端即時驗證所有欄位是否填寫
 
@@ -289,7 +289,7 @@ function register() {
 
 友善的錯誤提示訊息
 
-#2️⃣ 擴充功能 / 未來可改進
+# 2️⃣ 擴充功能 / 未來可改進
 
 增加電子郵件驗證
 
@@ -301,7 +301,7 @@ UI 優化（動畫、主題色切換）
 
 使用 JavaScript 框架改寫（React / Vue / Angular）
 
-#3️⃣ 總結
+# 3️⃣ 總結
 
 ChatGPT 可以快速生成註冊頁面模板
 
