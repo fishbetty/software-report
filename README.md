@@ -22,3 +22,25 @@
 第二步：加入伺服器端處理（示例 PHP）
 第三步：資料庫設計
 第四步：開發環境說明
+
+body {
+  font-family: "Microsoft JhengHei", Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+.form-container {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+input[type="text"], input[type="password"], input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
