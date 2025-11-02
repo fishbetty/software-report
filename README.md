@@ -411,6 +411,7 @@ function register() {
 <img width="647" height="205" alt="99" src="https://github.com/user-attachments/assets/aa790af9-4a27-4862-af89-9912b18749a9" />
 
 
+<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/37225b5e-59e1-4a12-a1aa-9206a803049a" />
 
 
 ### 輸入正確帳號密碼
