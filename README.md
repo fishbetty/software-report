@@ -17,8 +17,12 @@
 
 
 # 步驟與內容細項
+
+
 ##第一步：生成 HTML 結構
+
 <img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" />
+
 
 ```python
 <!DOCTYPE html>
@@ -105,7 +109,8 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 </html>
 ```
 
-依照它生成的結果測試如下
+
+###依照它生成的結果測試如下
 
 <img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
 
@@ -113,7 +118,8 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 ##第二步：增加確認密碼欄位
-二次確保用戶密碼
+
+###二次確保用戶密碼
 
 <img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" />
 
