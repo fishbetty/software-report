@@ -409,9 +409,7 @@ function register() {
 
 
 
-<img width="657" height="161" alt="12" src="https://github.com/user-attachments/assets/29a88693-e02a-4382-ba30-cf1f63970795" />
-
-<img width="657" height="161" alt="12" src="https://github.com/user-attachments/assets/9805b171-dabd-4c62-a7ef-9f91229e8d7c" />
+<img width="647" height="205" alt="99" src="https://github.com/user-attachments/assets/aa790af9-4a27-4862-af89-9912b18749a9" />
 
 
 
