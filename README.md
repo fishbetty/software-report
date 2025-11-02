@@ -27,7 +27,11 @@
 <img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
 
 
-第二步：加入伺服器端處理（示例 PHP）
+
+第二步：增加確認密碼欄位
+二次確保用戶密碼
+
+<img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" />
 第三步：資料庫設計
 第四步：開發環境說明
 
