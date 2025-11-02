@@ -24,6 +24,8 @@
 
 
 程式碼
+
+
 <img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" />
 
 
@@ -114,7 +116,7 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 ```
 
 
-###依照它生成的結果測試如下
+### 依照它生成的結果測試如下
 
 
 <img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
