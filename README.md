@@ -22,6 +22,7 @@
 
 <img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/51af5175-6d54-4a04-9635-9874a2b16d3d" />
 
+1
 依照它生成的結果測試如下
 
 <img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
