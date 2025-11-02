@@ -1,9 +1,13 @@
 # 11224213林巧芝 11224216林品妤
 
+
 # 使用 ChatGPT 輕鬆創建用戶註冊頁面
+
 隨著 AI 技術的快速發展，ChatGPT 已逐漸成為開發者的重要輔助工具。
 在建立「使用者註冊頁面」這類常見功能時，透過 ChatGPT 可大幅提升開發效率，減少重複性工作。
+
 # 需求分析
+
 註冊頁面至少應包含以下功能與要素：
 
 1.使用者名稱、電子郵件、密碼（基本必填項）
@@ -16,7 +20,9 @@
 
 
 
+
 # 步驟與內容細項
+
 
 
 
@@ -29,7 +35,10 @@
 <img width="736" height="692" alt="1" src="https://github.com/user-attachments/assets/46dc0d9b-3950-4068-94d7-ed62f8a8173d" />
 
 
+
+
 程式碼
+
 
 
 ```python
@@ -118,7 +127,10 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 ```
 
 
+
 ### 依照它生成的結果測試如下
+
+
 
 
 <img width="1278" height="960" alt="2" src="https://github.com/user-attachments/assets/a73af55e-68c9-47ea-bc31-2b36f2a223a2" />
@@ -128,12 +140,18 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 ## 第二步：增加確認密碼欄位
 
+
 二次確保用戶密碼
+
 
 
 <img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" />
 
+
+
 程式碼
+
+
 ```python
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -228,10 +246,14 @@ function register() {
 
 ```
 
+
+
 測試結果如下
+
+
 
 <img width="1293" height="995" alt="4" src="https://github.com/user-attachments/assets/17229e99-4c1b-4224-bda3-2d96b5955cf9" />
 
-第三步：資料庫設計
-第四步：開發環境說明
+第三步：
+第四步：
 
