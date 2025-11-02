@@ -209,6 +209,11 @@ function register() {
 </html>
 
 ```
+
+測試結果如下
+
+<img width="1293" height="995" alt="4" src="https://github.com/user-attachments/assets/17229e99-4c1b-4224-bda3-2d96b5955cf9" />
+
 第三步：資料庫設計
 第四步：開發環境說明
 
