@@ -16,7 +16,7 @@
 2.表單驗證：格式正確、必填、密碼數量等
 
 
-3.統一整潔的頁面樣式與主題色
+3.後台系統註冊
 
 
 
@@ -391,7 +391,16 @@ function register() {
 
 
 
-## 第三步：最後測試功能是否正常
+## 第三步：
+增加重要後台註冊系統
+
+<img width="686" height="852" alt="01" src="https://github.com/user-attachments/assets/2bb03805-5795-41b9-b575-fb2d48deab01" />
+<img width="678" height="851" alt="02" src="https://github.com/user-attachments/assets/cfcc9797-2031-4f3f-a8f3-d7242d666e15" />
+<img width="658" height="853" alt="03" src="https://github.com/user-attachments/assets/0504fa29-9286-4d72-8772-d776a36ea1dc" />
+<img width="643" height="822" alt="04" src="https://github.com/user-attachments/assets/6d8226eb-5782-485f-a705-44854e6cc04c" />
+<img width="652" height="518" alt="05" src="https://github.com/user-attachments/assets/c68bb74e-1852-4f78-92af-c2a31b0dd6c2" />
+
+
 
 
 
