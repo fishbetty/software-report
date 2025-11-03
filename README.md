@@ -401,6 +401,7 @@ function register() {
 <img width="642" height="497" alt="05" src="https://github.com/user-attachments/assets/e9a6d619-d169-424b-a0ab-f4c399d7cd6c" />
 <img width="650" height="345" alt="06" src="https://github.com/user-attachments/assets/8056d999-e3da-45ff-8aa9-f8be95735f03" />
 
+
 安裝
 
 
