@@ -403,14 +403,11 @@ function register() {
 安裝
 
 
-<img width="672" height="100" alt="11" src="https://github.com/user-attachments/assets/91efff10-73f6-4a65-a86c-244fc9a32704" />
-
+<img width="672" height="100" alt="11" src="https://github.com/user-attachments/assets/91efff10-73f6-4a65-a86c-244fc9a32704" /> <br><br><br>
 
 
 <img width="647" height="205" alt="99" src="https://github.com/user-attachments/assets/aa790af9-4a27-4862-af89-9912b18749a9" />
 
-
-<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/37225b5e-59e1-4a12-a1aa-9206a803049a" />
 
 
 
@@ -419,7 +416,7 @@ function register() {
 
 
 
-<img width="1917" height="1022" alt="f1" src="https://github.com/user-attachments/assets/5c794847-305a-468e-a0f2-5808434918dc" />
+<img width="1917" height="1022" alt="f1" src="https://github.com/user-attachments/assets/5c794847-305a-468e-a0f2-5808434918dc" /> <br><br><br>
 
 
 
@@ -428,7 +425,7 @@ function register() {
 
 
 
-<img width="1920" height="1027" alt="f2" src="https://github.com/user-attachments/assets/50594192-6990-4468-b9bf-c2d0e282128e" />
+<img width="1920" height="1027" alt="f2" src="https://github.com/user-attachments/assets/50594192-6990-4468-b9bf-c2d0e282128e" /> <br><br><br>
 
 
 
@@ -436,7 +433,7 @@ function register() {
 ### 輸入兩次不同的密碼
 
 
-<img width="1918" height="1027" alt="f3" src="https://github.com/user-attachments/assets/fd107f73-770f-4b5d-bb68-a29b819f0c0a" />
+<img width="1918" height="1027" alt="f3" src="https://github.com/user-attachments/assets/fd107f73-770f-4b5d-bb68-a29b819f0c0a" /> <br><br><br>
 
 
 
@@ -446,14 +443,14 @@ function register() {
 
 
 
-<img width="1920" height="1026" alt="f4" src="https://github.com/user-attachments/assets/35849905-5a10-4378-bab7-c3a0211f0198" />
+<img width="1920" height="1026" alt="f4" src="https://github.com/user-attachments/assets/35849905-5a10-4378-bab7-c3a0211f0198" /> <br><br><br>
 
 
 
 ### 查詢後台註冊人數清單
 
 
-<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/f936b794-6467-4106-9d7f-76b770beb564" />
+<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/f936b794-6467-4106-9d7f-76b770beb564" /> <br><br><br>
 
 # 總結
 
