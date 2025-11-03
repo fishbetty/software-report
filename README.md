@@ -12,9 +12,7 @@
 
 1.使用者名稱、電子郵件、密碼（基本必填項）
 
-
 2.表單驗證：格式正確、必填、密碼數量等
-
 
 3.後台系統註冊<br><br><br>
 
@@ -35,11 +33,11 @@
 
 
 
-生成碼
+程式碼
 
 
 
-```python
+```
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -145,14 +143,14 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
 
 
 
-<img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" />
+<img width="762" height="758" alt="3" src="https://github.com/user-attachments/assets/5997dbe2-d94b-4750-8b67-a1d30b34237d" /> <br><br><br>
 
 
 
 程式碼生成如下
 
 
-```python
+```
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -244,7 +242,7 @@ function register() {
 </body>
 </html>
 
-```
+``` <br><br><br>
 
 
 
@@ -252,7 +250,7 @@ function register() {
 
 
 
-<img width="1920" height="1025" alt="4" src="https://github.com/user-attachments/assets/f7c2b5cd-73f5-44a3-bd4f-917f57fb02c1" />
+<img width="1920" height="1025" alt="4" src="https://github.com/user-attachments/assets/f7c2b5cd-73f5-44a3-bd4f-917f57fb02c1" /> <br><br><br>
 
 
 
