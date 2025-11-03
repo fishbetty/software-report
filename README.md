@@ -450,7 +450,8 @@ function register() {
 ### 查詢後台註冊人數清單
 
 
-<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/f936b794-6467-4106-9d7f-76b770beb564" /> <br><br><br>
+<img width="1920" height="1028" alt="n1" src="https://github.com/user-attachments/assets/ddb95bea-57bc-45c2-8aa5-eb59e3387b1f" /> <br><br><br>
+
 
 # 總結
 
