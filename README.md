@@ -384,7 +384,7 @@ function register() {
 
 測試結果
 
-<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/b11caccd-0062-48cc-ba43-6cb1b986449f" />
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/b11caccd-0062-48cc-ba43-6cb1b986449f" /> <br><br><br>
 
 
 
