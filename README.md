@@ -415,11 +415,13 @@ function register() {
 <img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/37225b5e-59e1-4a12-a1aa-9206a803049a" />
 
 
+
+
 ### 輸入正確帳號密碼
 
 
-<img width="1918" height="1027" alt="5" src="https://github.com/user-attachments/assets/ac79baa3-fe3a-472c-8687-bc62ec5b3cf5" />
-<img width="658" height="107" alt="23" src="https://github.com/user-attachments/assets/49340b97-a53a-430c-b5ec-61cea0597bb8" />
+
+<img width="1917" height="1022" alt="f1" src="https://github.com/user-attachments/assets/5c794847-305a-468e-a0f2-5808434918dc" />
 
 
 
@@ -427,7 +429,8 @@ function register() {
 ### 輸入少於8位數字密碼
 
 
-<img width="1920" height="1027" alt="6" src="https://github.com/user-attachments/assets/239c2ca2-1714-4b5e-ba33-c603a9e0189a" />
+
+<img width="1920" height="1027" alt="f2" src="https://github.com/user-attachments/assets/50594192-6990-4468-b9bf-c2d0e282128e" />
 
 
 
@@ -435,17 +438,24 @@ function register() {
 ### 輸入兩次不同的密碼
 
 
-<img width="1920" height="1027" alt="7" src="https://github.com/user-attachments/assets/21e9b0ac-8882-4748-8257-21a172241bc3" />
+<img width="1918" height="1027" alt="f3" src="https://github.com/user-attachments/assets/fd107f73-770f-4b5d-bb68-a29b819f0c0a" />
+
 
 
 ### 輸入欄位缺少填寫
 
 
 
-<img width="1920" height="1027" alt="8" src="https://github.com/user-attachments/assets/5b51c42a-58b4-4068-aa24-8440be1cd334" />
+
+
+<img width="1920" height="1026" alt="f4" src="https://github.com/user-attachments/assets/35849905-5a10-4378-bab7-c3a0211f0198" />
 
 
 
+### 查詢後台註冊人數清單
+
+
+<img width="537" height="553" alt="test" src="https://github.com/user-attachments/assets/f936b794-6467-4106-9d7f-76b770beb564" />
 
 # 總結
 
